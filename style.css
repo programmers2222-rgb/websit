@@ -1,0 +1,75 @@
+h1{
+    color: black;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+    text-align:cursor;
+}
+menu{
+    list-style-image: none;
+    list-style-type: none;
+    color: blue;
+    list-style-type: icon;
+}
+
+@media (max-width: 768px) {
+    
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    
+}
+
+
+@media (min-width: 1025px) {
+   
+}
+hr{
+    font-size: 100px;
+    font-weight: 2000px;
+    font-display:100%;
+    font-variant: small-caps;
+    font-kerning: auto;
+    font-language-override: normal;
+    font-family: serif;
+
+}
+p{
+    font-size: 30px;
+    font-weight: 20px;
+    font-display: 40px;
+    text-align: center;
+    display: flexbox;
+    text-shadow: 20px;
+}
+img{
+    image-rendering: auto;
+    font-size: 100px;
+    font-weight: 30px;
+}
+button{
+    background-color: rgba(11, 67, 252, 0.877);
+    font-size: 30px;
+    font-weight: 20px;
+    
+
+}
+h3{
+    text-align: center;
+    text-shadow: 20px;
+    background-color: rgba(0, 0, 255, 0.623);
+}
+a{
+    color: red;
+    font-size: small;
+    font-weight: 10px;
+}
+  ul{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 3px;
+  }
